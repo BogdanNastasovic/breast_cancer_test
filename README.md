@@ -1,4 +1,4 @@
---- IN ORDER TO SEE ALL OF GRAPHS PLEASE DOWNLOAD FILES AND OPEN LOCALY --- 
+--- IN ORDER TO SEE ALL OF GRAPHS VISIT: https://www.kaggle.com/bogdannastasovic/breast-cancer-prediction ---
 
 Machine Learning Project: Breast Cancer Prediction
 
