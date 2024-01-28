@@ -1,4 +1,4 @@
-Machine Learning Project: Malignancy Prediction
+Machine Learning Project: Breast Cancer Prediction
 
 The goal of this project is to create a machine learning model that predicts whether a cell is malignant or benign based on provided data. We utilize the Logistic Regression algorithm to achieve this classification task.
 
