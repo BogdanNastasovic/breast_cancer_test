@@ -20,4 +20,4 @@ Evaluate the model's performance on the test set.
 Achieved a model with 99% accuracy and low Type II error, but still higher than Type I error (which could be a problem).
 
 
-The breast_cancer_notebook contains comments that explain the majority of the code. It also provides explanations for the reasoning behind specific steps.
+The breast_cancer_notebook contains comments that explain the majority of the code. It also provides explanations for the reasoning behind specific steps. 
